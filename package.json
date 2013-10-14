@@ -1,0 +1,24 @@
+{
+  "name": "ep_disableErrorMessages",
+  "description": "Disable Error messages to clients",
+  "version": "0.0.1",
+  "author": {
+    "name": "johnyma22",
+    "email": "john@mclear.co.uk",
+    "url": "John McLear"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.4.1 < 0.7.0"
+  },
+  "_id": "ep_disableErrorMessages@0.0.2",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.18",
+  "_nodeVersion": "v0.6.8",
+  "_defaultsLoaded": true,
+  "_from": "ep_disableErrorMessages@",
+  "readme": "ERROR: No README.md file found!"
+}

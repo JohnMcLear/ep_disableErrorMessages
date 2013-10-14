@@ -1,0 +1,11 @@
+{
+  "parts":[
+    {
+      "name": "ep_disableErrorMessages",
+      "hooks": {},
+      "client_hooks": {
+        "documentReady": "ep_disableErrorMessages/static/js/disableErrorMessages:suppress"
+      }
+    }
+  ]
+}
